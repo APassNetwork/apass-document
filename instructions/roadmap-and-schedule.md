@@ -16,8 +16,8 @@ coverY: -221.7782217782218
 ## <mark style="color:blue;">Q1 2023</mark>
 
 <mark style="color:green;">\[✔] $APC Treasury Construction</mark>\ <mark style="color:green;">\[✔] APass DIDs price bind with USD</mark>\
-<mark style="color:green;">\[✔] Community Roles and Titles</mark>\ <mark style="color:orange;">\[⌛] APass Chrome Extension</mark>\ <mark style="color:orange;">\[⌛] BallHunter GameFi</mark>\ <mark style="color:orange;"></mark><mark style="color:green;"><mark style="color:orange;">\[<mark style="color:orange;"></mark><mark style="color:green;">✔] Multi-chain (SUI) Support</mark> \
-<mark style="color:orange;">\[⌛] $APC Token Staking & Farming</mark>\ <mark style="color:orange;"></mark>\[　] Contract Audit\
+<mark style="color:green;">\[✔] Community Roles and Titles</mark>\ <mark style="color:orange;">\[⌛] APass Chrome Extension</mark>\ <mark style="color:orange;">\[⌛] BallHunter GameFi</mark>\ <mark style="color:orange;"></mark><mark style="color:green;">\[✔] Multi-chain (SUI) Support</mark> \
+<mark style="color:green;">\[✔] $APC Token Staking & Farming</mark>\ <mark style="color:orange;"></mark>\[　] Contract Audit\
 <mark style="color:orange;">\[⌛] Governance $PAS Release</mark>\
 \[　] SBT Passport (Decentralized Customize Personal Site)\
 <mark style="color:orange;">\[⌛] Apter open quest publisher</mark>\
