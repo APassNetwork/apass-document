@@ -2,12 +2,12 @@
 
 Each domain name can mint $APC oncetime for every 24 hours. The amount of rewards is determined by one's own generation, and the top-level parent domain name length.
 
-| ZERO Length | ZERO     | FIRST                                    | SECOND                                  |
-| ----------- | -------- | ---------------------------------------- | --------------------------------------- |
-| 3 char      | 1.0 $APC | <p>0.4 $APC </p><p>0.1 $APC(fedback)</p> | <p>0.2 $APC<br>0.05 $APC(feedback)</p>  |
-| 4 char      | 0.8 $APC | <p>0.32 $APC<br>0.08 $APC(feedback)</p>  | <p>0.16 $APC<br>0.04 $APC(feedback)</p> |
-| 5 char      | 0.6 $APC | <p>0.24 $APC<br>0.06 $APC(feedback)</p>  | <p>0.12 $APC<br>0.03 $APC(feedback)</p> |
-| 6+ char     | 0.4 $APC | <p>0.16 $APC<br>0.04 $APC(feedback)</p>  | <p>0.08 $APC<br>0.02 $APC(feedback)</p> |
+| ZERO Length | ZERO     | FIRST                                     | SECOND                                  |
+| ----------- | -------- | ----------------------------------------- | --------------------------------------- |
+| 3 char      | 1.0 $APC | <p>0.4 $APC </p><p>0.1 $APC(feedback)</p> | <p>0.2 $APC<br>0.05 $APC(feedback)</p>  |
+| 4 char      | 0.8 $APC | <p>0.32 $APC<br>0.08 $APC(feedback)</p>   | <p>0.16 $APC<br>0.04 $APC(feedback)</p> |
+| 5 char      | 0.6 $APC | <p>0.24 $APC<br>0.06 $APC(feedback)</p>   | <p>0.12 $APC<br>0.03 $APC(feedback)</p> |
+| 6+ char     | 0.4 $APC | <p>0.16 $APC<br>0.04 $APC(feedback)</p>   | <p>0.08 $APC<br>0.02 $APC(feedback)</p> |
 
 
 
