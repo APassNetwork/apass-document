@@ -7,4 +7,4 @@ coverY: 0
 
 # 🗺 APass Ecos Map
 
-<figure><img src="../.gitbook/assets/ecomap.png" alt=""><figcaption><p>APass Ecosystem Map (11/22/2022)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>APass Ecosystem Map (3/6/2022)</p></figcaption></figure>

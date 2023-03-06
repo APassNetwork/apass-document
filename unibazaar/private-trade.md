@@ -38,7 +38,7 @@ Friend trading steps:
 
 When creating a new trade, if you add NFT items into "wants" list and check the Two-Step confirmation, the process is somewhat different from the general trade process.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### **Transaction Fee**&#x20;
 
