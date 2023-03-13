@@ -33,10 +33,10 @@ coverY: -221.7782217782218
 \[　] Strategic financing\
 \[　] APass DAO Launch\
 \[　] $APC and $PAS CEX listed\
-\[　] UniBazaar Metaverse Lobby (UniBazaar Public) \
 \[　] APass Oracle - VRF & WEBAPI Service\
-\[　] Friend system\
-\[　] APortal Game Centre\
+<mark style="color:orange;">\[⌛] Friend system</mark>\
+<mark style="color:orange;">\[⌛] APortal Game Centre</mark>\
+\[　] UniBazaar Metaverse Lobby (UniBazaar Public) \
 \[　] UniBazaar Personal E-Store with Domain\
 \[　] UniBazaar Web3 E-commerce\ <mark style="color:orange;"></mark>
 
