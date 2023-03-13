@@ -32,7 +32,7 @@ For Developers, can be using API or SDK to integrate with APass ecosystem.
 
 &#x20;    [resolver-api.md](development/resolver-api.md "mention")
 
-#### AOracle
+#### APassOracle
 
 {% content-ref url="apassoracle/how-to-integration-apassoracle.md" %}
 [how-to-integration-apassoracle.md](apassoracle/how-to-integration-apassoracle.md)
@@ -44,9 +44,9 @@ We are willing to work together with ecosystem and community to create the best 
 
 If you are interested in building the aptos ecosystem with us, please contact us.
 
-| [aptospassport@proton.me](mailto:aptospassport@proton.me)              | \[Email]:e-mail: |
-| ---------------------------------------------------------------------- | ---------------- |
-| [https://twitter.com/aptospassport](https://twitter.com/aptospassport) | \[Twitter]       |
-| [https://t.me/apass\_official](https://t.me/+LpJ9gv9oJK80ODBl)         | \[Telegram]      |
-| [https://discord.gg/apass](https://discord.gg/apass)                   | \[Discord]       |
-| [https://github.com/AptosPassport](https://github.com/AptosPassport)   | \[Github]        |
+| [business@aptpp.com](mailto:business@aptpp.com)                        | \[Email]    |
+| ---------------------------------------------------------------------- | ----------- |
+| [https://twitter.com/aptospassport](https://twitter.com/aptospassport) | \[Twitter]  |
+| [https://t.me/apass\_official](https://t.me/+LpJ9gv9oJK80ODBl)         | \[Telegram] |
+| [https://discord.gg/apass](https://discord.gg/apass)                   | \[Discord]  |
+| [https://github.com/AptosPassport](https://github.com/AptosPassport)   | \[Github]   |
