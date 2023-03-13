@@ -16,14 +16,15 @@ coverY: -221.7782217782218
 ## <mark style="color:blue;">Q1 2023</mark>
 
 <mark style="color:green;">\[✔] $APC Treasury Construction</mark>\ <mark style="color:green;">\[✔] APass DIDs price bind with USD</mark>\
-<mark style="color:green;">\[✔] Community Roles and Titles</mark>\ <mark style="color:orange;">\[⌛] APass Chrome Extension</mark>\ <mark style="color:orange;">\[⌛] BallHunter GameFi</mark>\ <mark style="color:orange;"></mark><mark style="color:green;">\[✔] Multi-chain (SUI) Support</mark> \
+<mark style="color:green;">\[✔] Community Roles and Titles</mark>\ <mark style="color:orange;">\[⌛] APass Chrome Extension</mark>\ <mark style="color:orange;">\[⌛] BallHunter GameFi on Aptos</mark>\ <mark style="color:orange;"></mark><mark style="color:green;">\[✔] Multi-chain (SUI) Support</mark> \
 <mark style="color:green;">\[✔] $APC Token Staking & Farming</mark>\ <mark style="color:orange;"></mark>\[　] Contract Audit\
 <mark style="color:green;">\[✔] Governance $prePAS Release</mark>\
 <mark style="color:orange;">\[⌛] Governance $PAS Release</mark>\
 \[　] SBT Passport (Decentralized Customize Personal Site)\
 <mark style="color:orange;">\[⌛] Apter open quest publisher</mark>\
-\[　] UniBazaar Web3 E-commerce\
 <mark style="color:orange;">\[⌛] Apter Credit Rating</mark>\
+<mark style="color:orange;">\[⌛] zkCredit Protocol</mark>\
+<mark style="color:orange;">\[⌛] zkCredit Replayer Node</mark>\
 \[　] BlindBox Draw for APass
 
 ## <mark style="color:blue;">Q2 2023</mark>
@@ -36,7 +37,8 @@ coverY: -221.7782217782218
 \[　] APass Oracle - VRF & WEBAPI Service\
 \[　] Friend system\
 \[　] APortal Game Centre\
-\[　] UniBazaar Personal E-Store with Domain\ <mark style="color:orange;"></mark>
+\[　] UniBazaar Personal E-Store with Domain\
+\[　] UniBazaar Web3 E-commerce\ <mark style="color:orange;"></mark>
 
 {% hint style="info" %}
 We are building the APass ecosystem efficiently, the Roadmap plan may be updated.
