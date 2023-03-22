@@ -16,8 +16,9 @@ coverY: -221.7782217782218
 ## <mark style="color:blue;">Q1 2023</mark>
 
 <mark style="color:green;">\[✔] $APC Treasury Construction</mark>\ <mark style="color:green;">\[✔] APass DIDs price bind with USD</mark>\
-<mark style="color:green;">\[✔] Community Roles and Titles</mark>\ <mark style="color:orange;">\[⌛] APass Chrome Extension</mark>\ <mark style="color:orange;">\[⌛] BallHunter GameFi on Aptos</mark>\ <mark style="color:orange;"></mark><mark style="color:green;">\[✔] Multi-chain (SUI) Support</mark> \
-<mark style="color:green;">\[✔] $APC Token Staking & Farming</mark>\ <mark style="color:orange;"></mark>\[　] Contract Audit\
+<mark style="color:green;">\[✔] Community Roles and Titles</mark>\ <mark style="color:orange;">\[⌛] BallHunter GameFi on Aptos</mark>\ <mark style="color:orange;"></mark><mark style="color:green;">\[✔] Multi-chain (SUI) Support</mark> \
+<mark style="color:green;">\[✔] $APC Token Staking & Farming</mark>\
+<mark style="color:green;">\[✔] AIGC for APass DID</mark>\ <mark style="color:orange;"></mark>\[　] Contract Audit\
 <mark style="color:green;">\[✔] Governance $prePAS Release</mark>\
 <mark style="color:orange;">\[⌛] Governance $PAS Release</mark>\
 \[　] SBT Passport (Decentralized Customize Personal Site)\
@@ -35,7 +36,7 @@ coverY: -221.7782217782218
 \[　] $APC and $PAS CEX listed\
 \[　] APass Oracle - VRF & WEBAPI Service\
 <mark style="color:orange;">\[⌛] Friend system</mark>\
-<mark style="color:orange;">\[⌛] APortal Game Centre</mark>\
+<mark style="color:orange;">\[⌛] APortal Game Centre</mark>\ <mark style="color:orange;">\[⌛] APass Chrome Extension</mark>\
 \[　] UniBazaar Metaverse Lobby (UniBazaar Public) \
 \[　] UniBazaar Personal E-Store with Domain\
 \[　] UniBazaar Web3 E-commerce\ <mark style="color:orange;"></mark>
