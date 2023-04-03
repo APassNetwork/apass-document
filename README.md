@@ -44,9 +44,9 @@ We are willing to work together with ecosystem and community to create the best 
 
 If you are interested in building the aptos ecosystem with us, please contact us.
 
-| [business@aptpp.com](mailto:business@aptpp.com)                        | \[Email]    |
-| ---------------------------------------------------------------------- | ----------- |
-| [https://twitter.com/aptospassport](https://twitter.com/aptospassport) | \[Twitter]  |
-| [https://t.me/apass\_official](https://t.me/+LpJ9gv9oJK80ODBl)         | \[Telegram] |
-| [https://discord.gg/apass](https://discord.gg/apass)                   | \[Discord]  |
-| [https://github.com/AptosPassport](https://github.com/AptosPassport)   | \[Github]   |
+| [business@aptpp.com](mailto:business@aptpp.com)                      | \[Email]    |
+| -------------------------------------------------------------------- | ----------- |
+| [https://twitter.com/apassnetwork](https://twitter.com/apassnetwork) | \[Twitter]  |
+| [https://t.me/apass\_official](https://t.me/+LpJ9gv9oJK80ODBl)       | \[Telegram] |
+| [https://discord.gg/apass](https://discord.gg/apass)                 | \[Discord]  |
+| [https://github.com/AptosPassport](https://github.com/AptosPassport) | \[Github]   |
